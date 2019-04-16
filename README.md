@@ -1,2 +1,4 @@
 # repository_for_share
-this is repository for share
+this is ~~~the~~~ repository for ~~~the~~~ share
+
+ACADEMICIAN WAS HERE HAHA
